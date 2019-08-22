@@ -1,7 +1,7 @@
 import csv
 video = input("video name please")
 
-csvpath = "/Users/seve/Desktop/netflix_ratings.csv"
+csvpath = "/Users/**/Desktop/netflix_ratings.csv"
 
 found = False
 #open the csv
